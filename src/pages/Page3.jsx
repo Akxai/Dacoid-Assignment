@@ -42,11 +42,11 @@ function Page3() {
               className="cursor-pointer mr-2"
             />
             By proceeding, I agree to all
-            <span className="underline text-[#9FB2FF] mx-1 cursor-pointer">
+            <span className="underline text-[#9FB2FF] mx-0.5 cursor-pointer">
               T&C
             </span>
             and
-            <span className="underline text-[#9FB2FF] mx-1 cursor-pointer">
+            <span className="underline text-[#9FB2FF] mx-0.5 cursor-pointer">
               Privacy Policy
             </span>
           </label>
